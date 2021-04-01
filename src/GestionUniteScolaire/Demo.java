@@ -36,7 +36,7 @@ public class Demo {
 	    
 	    System.out.println(courses.getCourses());
 	    
-	    /***************************************TEST********************************************************/
+	    /***************************************TEST 01/04********************************************************/
 
 	    ListCourses OList_Cours;
 	    OList_Cours=new ListCourses();
