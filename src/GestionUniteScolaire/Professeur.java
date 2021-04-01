@@ -15,7 +15,7 @@ public class Professeur extends Personne {
 
 	@Override
 	public String toString() {
-		return "Professeur [num="+getNum()+", nom ="+getNom()+", mail=" +getMail()+ "]";
+		return "Professeur de : [num="+getNum()+", nom ="+getNom()+", mail=" +getMail()+ "]";
 	}
 	
 	
